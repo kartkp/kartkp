@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 ![](https://leetcard.jacoblin.cool/kartkp?ext=heatmap)
 
+https://leetcode-badge-showcase.vercel.app/api?username=kartkp&theme=beach
+
 
