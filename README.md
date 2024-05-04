@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 ![](https://leetcard.jacoblin.cool/kartkp?ext=heatmap)
 
-https://badges.peiyuan.ch/leetcode/{kartkp}/ranking
 
