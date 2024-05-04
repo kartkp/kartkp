@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 ![](https://leetcard.jacoblin.cool/kartkp?ext=heatmap)
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={kartkp}&theme={dark}" alt="LeetCode Badges"/>
