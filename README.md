@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![](https://leetcard.jacoblin.cool/kartkp?ext=heatmap)
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={kartkp})
+
 
 
 
