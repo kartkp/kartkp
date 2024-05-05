@@ -1,4 +1,4 @@
-hello visitors.. welcome to my github 🤘🤘
+hello visitors.. welcome to my github profile 🤘🤘 and chill..
 
 <!--
 **kartkp/kartkp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
