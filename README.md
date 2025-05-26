@@ -35,30 +35,7 @@ hello visitors.. welcome to my github profile 🤘🤘
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartkp&show_icons=true&locale=en&layout=compact" alt="kartkp" /></p>
 
----
 
-## My Stats:
-### **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartkp&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartkp&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartkp5&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartkp&repo=DSA-Endgame-Java&theme=github-dark" />
-</p>
-
-## LeetCode Stats:
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/kartkp?ext=contest&ext=heatmap" alt="LeetCode Stats" width="400" height="300" />
-  <img src="https://leetcard.jacoblin.cool/kartkp?ext=contest" alt="LeetCode Stats" width="400" height="300" />
-</p>
-
----
 
 
 
