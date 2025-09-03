@@ -37,7 +37,7 @@ hello visitors.. welcome to my github profile 🤘🤘
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartkp&show_icons=true&locale=en&layout=compact" alt="kartkp" /></p>
+
 <div align="center" style="margin-top: 30px;">
   <!-- Side-by-side GitHub Stats and Top Languages -->
   <span>
