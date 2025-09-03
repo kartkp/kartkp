@@ -38,14 +38,24 @@ hello visitors.. welcome to my github profile 🤘🤘
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartkp&show_icons=true&locale=en&layout=compact" alt="kartkp" /></p>
+<div align="center" style="margin-top: 30px;">
+  <!-- Side-by-side GitHub Stats and Top Languages -->
+  <span>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=kartkp&theme=github_dark&hide_border=false&border_color=14B8A6&include_all_commits=true&count_private=true" 
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartkp&theme=github_dark&hide_border=false&border_color=14B8A6&layout=compact" 
+    />
+  </span>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kartkp/kartkp/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kartkp/kartkp/output/github-snake.svg" />
-    <img alt="GitHub Snake Contribution Animation" src="https://raw.githubusercontent.com/kartkp/kartkp/output/github-snake.svg" width="100%" />
-  </picture>
-</p>
+  <br /><br />
+
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=kartkp&theme=github-dark&hide_border=false&border_color=14B8A6" 
+  />
+</div>
 
 
 
