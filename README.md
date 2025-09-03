@@ -52,9 +52,7 @@ hello visitors.. welcome to my github profile 🤘🤘
   <br /><br />
 
   <!-- Streak Stats -->
-  <img 
-    src="https://streak-stats.demolab.com?user=kartkp&theme=github-dark&hide_border=false&border_color=14B8A6" 
-  />
+
 </div>
 
 
