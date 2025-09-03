@@ -39,7 +39,13 @@ hello visitors.. welcome to my github profile 🤘🤘
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartkp&show_icons=true&locale=en&layout=compact" alt="kartkp" /></p>
 
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kartkp/kartkp/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kartkp/kartkp/output/github-snake.svg" />
+    <img alt="GitHub Snake Contribution Animation" src="https://raw.githubusercontent.com/kartkp/kartkp/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
 
 
 
