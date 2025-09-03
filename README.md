@@ -10,7 +10,7 @@ hello visitors.. welcome to my github profile 🤘🤘
 
 
 
-<a href="https://www.linkedin.com/in/kartikey-pandey-a6b979257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kartikey Pandey" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kartkp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kartikey Pandey" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/kartkp/" target="blank"><img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-leetcode-11492972-9325307.png" alt="Kartikey Pandey" height="30" width="30" /></a>
 
 <h3 align="left">Leetcode Badges:</h3>
