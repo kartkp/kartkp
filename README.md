@@ -23,6 +23,10 @@ hello visitors.. welcome to my github profile 🤘🤘
   
 </p>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartkp&theme=react-dark&bg_color=000000&color=14B8A6&line=14B8A6&point=FFFFFF&area=true&area_color=14B8A6&area_opacity=0.2&hide_border=true&custom_title=🔥%20My%20GitHub%20Contribution%20Graph" width="95%" />
+</div>
+
 
 
 <p align="left">
