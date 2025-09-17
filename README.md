@@ -41,9 +41,9 @@ hello visitors.. welcome to my github profile 🤘🤘
 <div align="center" style="margin-top: 30px;">
   <!-- Side-by-side GitHub Stats and Top Languages -->
   <span>
-    <img 
+<!--     <img 
       src="https://github-readme-stats.vercel.app/api?username=kartkp&theme=github_dark&hide_border=false&border_color=14B8A6&include_all_commits=true&count_private=true" 
-    />
+    /> -->
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartkp&theme=github_dark&hide_border=false&border_color=14B8A6&layout=compact" 
     />
